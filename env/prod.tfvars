@@ -1,0 +1,6 @@
+project = "cloud"
+team = "Lumi"
+aws_region = "ap-east-1"
+environment = "prod"
+aws_profile = "local-iac-terraform-ci"
+aws_account_id = "584102114761"
